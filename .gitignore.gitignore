@@ -115,3 +115,5 @@ dmypy.json
 .pyre/
 
 .idea/
+_pycache_/
+venv/
