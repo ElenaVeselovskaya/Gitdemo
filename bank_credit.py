@@ -17,6 +17,6 @@ def calculation_of_monthly_payment_in_rub(sum_of_credit_in_rub, rate_of_credit, 
     return total_monthly_payment_of_credit_in_rub
 
 
-print(calculation_of_monthly_payment_in_rub(75000, 0.18, 12))
+
 
 

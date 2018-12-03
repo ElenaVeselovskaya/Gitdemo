@@ -15,4 +15,4 @@ def calculation_of_deposit_profitability_in_rub(sum_of_deposit_in_rub, time_of_d
     return total_sum_of_deposit_in_rub
 
 
-print(calculation_of_deposit_profitability_in_rub(800000, 240, 0.1))
+

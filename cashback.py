@@ -13,4 +13,4 @@ def calculate_cashback_in_rub(purchase_amount_in_rub, rate_of_cashback):
     total_cashback_in_rub = purchase_amount_in_rub * rate_of_cashback
     return total_cashback_in_rub
 
-print(calculate_cashback_in_rub(5000, 0.3))
+
